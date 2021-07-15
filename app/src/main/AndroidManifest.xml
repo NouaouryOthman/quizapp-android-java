@@ -17,7 +17,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyDm3nmoFPO3N9onLo4RBJcVGUb_40o0Hi0"></meta-data>
+            android:value="Your-Api-Key-Here"></meta-data>
 
         <activity android:name=".Score" />
         <activity android:name=".Quizz5" />
